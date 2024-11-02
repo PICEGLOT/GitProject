@@ -1,5 +1,9 @@
 #include <iostream>
 using namespace std;
+class Rectangle
+{
+
+};
 class Point
 {
 
@@ -7,6 +11,8 @@ class Point
 int main()
 {
     int i = 5;
+    int j = 12;
+    Rectangle r;
     int j = 12;
     Point p;
 }
